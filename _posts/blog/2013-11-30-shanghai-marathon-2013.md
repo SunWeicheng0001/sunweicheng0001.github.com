@@ -31,7 +31,7 @@ category: blog
   
 在展览馆里面，至少是入口处，那可真是人山人海，必将20K+的跑者还真不是吹出来的。拿了号码布等一系列东西之后，又拿了本次最大的战利品————NIKE战袍（虽然他是绿的，据说半马是橙色的，好想要）！  
 <div style="display:inline">
-    <img src="https://lh4.googleusercontent.com/-ECY_sgteeCE/UpncNzYTr5I/AAAAAAAABdE/m6LkhIzlT10/2013-11-29+17.58.19.jpg" alt="wupin" width="240px" style="float:left"/>
+    <img src="https://lh4.googleusercontent.com/-ECY_sgteeCE/UpncNzYTr5I/AAAAAAAABdE/m6LkhIzlT10/2013-11-29+17.58.19.jpg" alt="wupin" width="240px"/>
     <img src="https://lh5.googleusercontent.com/-FkbgULkEmkA/UpnbrAg3tQI/AAAAAAAABck/9yAP67FJSk8/2013-11-29+18.02.31.jpg" alt="wupin" width="240px"/>
 </div>
   
