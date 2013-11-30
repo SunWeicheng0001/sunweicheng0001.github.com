@@ -30,10 +30,10 @@ category: blog
 有了这张传说中的红宝石钻石卡之后，我在一个阳光明媚的礼拜五，去了上海体育场的东亚展览中心，碰巧那边BMW在做活动，一堆小萝莉小正太在那边搞活动（T_T年轻真好）。话说刚开始报名的时候就有说BMW那边有半马的名额，但那个时候学校跑虫这边已经报着了，就没有去睬BMW，这不就悲剧了么= =，唉，悔不当初。  
   
 在展览馆里面，至少是入口处，那可真是人山人海，必将20K+的跑者还真不是吹出来的。拿了号码布等一系列东西之后，又拿了本次最大的战利品————NIKE战袍（虽然他是绿的，据说半马是橙色的，好想要）！  
-<ul>
-    <li style="float:left;"><img src="https://lh4.googleusercontent.com/-ECY_sgteeCE/UpncNzYTr5I/AAAAAAAABdE/m6LkhIzlT10/2013-11-29+17.58.19.jpg" alt="wupin" width="240px"/></li>
-    <li><img src="https://lh5.googleusercontent.com/-FkbgULkEmkA/UpnbrAg3tQI/AAAAAAAABck/9yAP67FJSk8/2013-11-29+18.02.31.jpg" alt="wupin" width="240px"/></li>
-</ul>  
+
+<img src="https://lh4.googleusercontent.com/-ECY_sgteeCE/UpncNzYTr5I/AAAAAAAABdE/m6LkhIzlT10/2013-11-29+17.58.19.jpg" alt="wupin" width="240px" style="float:left;"/>
+<img src="https://lh5.googleusercontent.com/-FkbgULkEmkA/UpnbrAg3tQI/AAAAAAAABck/9yAP67FJSk8/2013-11-29+18.02.31.jpg" alt="wupin" width="240px"/>
+  
   
 明天就要开跑啦，还是有一点小激动呢！！会不会就此走上人生巅峰呢？哈哈，明天接着更新！
 
