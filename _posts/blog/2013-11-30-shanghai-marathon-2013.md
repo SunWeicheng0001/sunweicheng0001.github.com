@@ -32,7 +32,7 @@ category: blog
 <table frame=void>
     <tr style="height=240">
         <td><img src="https://lh4.googleusercontent.com/-ECY_sgteeCE/UpncNzYTr5I/AAAAAAAABdE/m6LkhIzlT10/2013-11-29+17.58.19.jpg"></td>
-        <td><img src="https://lh5.googleusercontent.com/-FkbgULkEmkA/UpnbrAg3tQI/AAAAAAAABck/9yAP67FJSk8/2013-11-29+18.02.31.jpg"></td>
+        <td style="padding-left: 4px"><img src="https://lh5.googleusercontent.com/-FkbgULkEmkA/UpnbrAg3tQI/AAAAAAAABck/9yAP67FJSk8/2013-11-29+18.02.31.jpg"></td>
     </tr>
 </table>
 
