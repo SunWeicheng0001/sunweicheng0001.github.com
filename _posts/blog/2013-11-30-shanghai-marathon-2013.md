@@ -46,13 +46,13 @@ category: blog
 
 <table frame=void>
     <tr style="height: 240px">
-        <tb><img src="https://lh6.googleusercontent.com/EwJz56XFtnULhLPLwKeotJrccOKh5TEJHpCp7LVQQsE=s300"></tb>
-        <tb style="padding-left: 4px"><img src="https://lh6.googleusercontent.com/ve-am67ldXAYlPksOad1koLLglSjsN9pk-UJd_YrU40=s300"></tb>
-        <tb style="padding-left: 4px"><img src="https://lh5.googleusercontent.com/THu336CJpvNuUlHIZm96-ec-UBwZYebHux2eaHDRxMQ=s300"></tb>
+        <td><img src="https://lh6.googleusercontent.com/EwJz56XFtnULhLPLwKeotJrccOKh5TEJHpCp7LVQQsE=s300"></td>
+        <td style="padding-left: 4px"><img src="https://lh6.googleusercontent.com/ve-am67ldXAYlPksOad1koLLglSjsN9pk-UJd_YrU40=s300"></td>
+        <td style="padding-left: 4px"><img src="https://lh5.googleusercontent.com/THu336CJpvNuUlHIZm96-ec-UBwZYebHux2eaHDRxMQ=s300"></td>
     </tr>
     <tr>
-        <tb><img src="https://lh4.googleusercontent.com/pYdnI3iYoSwpR_Vs5Mbm4J1eSdrNpHLPx9k_6twaqcE=s300"></tb>
-        <tb style="padding-left: 4px"><img src="https://lh4.googleusercontent.com/QIUXCPKN-kzg9ja1zBN6kO5C6o5VIhtYBZYKoOLN94Y=s300"></tb>
+        <td><img src="https://lh4.googleusercontent.com/pYdnI3iYoSwpR_Vs5Mbm4J1eSdrNpHLPx9k_6twaqcE=s300"></td>
+        <td style="padding-left: 4px"><img src="https://lh4.googleusercontent.com/QIUXCPKN-kzg9ja1zBN6kO5C6o5VIhtYBZYKoOLN94Y=s300"></td>
     </tr>
 </table>
 台上有人带着领操，天上有直升飞机，有一阵没一阵的盘旋着，带动着周围的人一阵一阵的向天上挥手（虽然明知道是拍不到自己的）。远方的主持人，像是一个现场DJ，拱托着气氛，也是，这么冷的天，再冷清一点，就真的没有人跑步了= =。  
@@ -78,9 +78,9 @@ category: blog
   
 <table frame=void>
     <tr>
-        <tb><img src="https://lh5.googleusercontent.com/TIlhPXVotmAkFZwohVnj-EunC2OAuvwC0mnyHN6Dz9Y=s300"></tb>
-        <tb style="padding-left: 4px"><img  src="https://lh5.googleusercontent.com/3OIjZGKDxh8ZQ7pVHlk8hw8qLdbLEPqYLqrtI6u7yjA=s300"></tb>
-        <tb style="padding-left: 4px"><img  src="https://lh5.googleusercontent.com/Qcme-p2Veqi8vSP6uiTU6RlDQ5nl6X3HL__czuIOXlE=s300"></tb>
+        <td><img src="https://lh5.googleusercontent.com/TIlhPXVotmAkFZwohVnj-EunC2OAuvwC0mnyHN6Dz9Y=s300"></td>
+        <td style="padding-left: 4px"><img  src="https://lh5.googleusercontent.com/3OIjZGKDxh8ZQ7pVHlk8hw8qLdbLEPqYLqrtI6u7yjA=s300"></td>
+        <td style="padding-left: 4px"><img  src="https://lh5.googleusercontent.com/Qcme-p2Veqi8vSP6uiTU6RlDQ5nl6X3HL__czuIOXlE=s300"></td>
     </tr>
 </table>  
   
