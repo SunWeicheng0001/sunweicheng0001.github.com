@@ -42,9 +42,10 @@ category: blog
 上马进行时
 -------------  
 早上不到5点就醒了，洗洗弄弄，差不多在5点一刻左右出了门，去离家附近的全家里面买了早饭，可惜包子和关东煮都不能买T_T。接着搭出租车去了外滩，结果交通管制，封路，不得已，只好下车走到外滩去。  
-走着，走着，看到有一些存包车，心情那个激动啊！！一辆一辆看过去，就想看到10KM的存包车，事实证明**我还是太年轻了！！！**逛了将近一个小时我才知道，10km是木有存包车的！！10km就要背着个包跑啊！！当时脑子里面只有一句话，**10公里没有人权！！**下次就算不跑，也不能报10公里了。好在，碰到了一个交大跑虫的人，指点了方向之后，找到了交大的大部队，心里总算是安定一点了。
+走着，走着，看到有一些存包车，心情那个激动啊！！一辆一辆看过去，就想看到10KM的存包车，事实证明**我还是太年轻了！！！**逛了将近一个小时我才知道，10km是木有存包车的！！10km就要背着个包跑啊！！当时脑子里面只有一句话，**10公里没有人权！！**下次就算不跑，也不能报10公里了。好在，碰到了一个交大跑虫的人，指点了方向之后，找到了交大的大部队，心里总算是安定一点了。  
+
 <table frame=void>
-    <tr>
+    <tr style="height: 240px">
         <tb><img src="https://lh6.googleusercontent.com/EwJz56XFtnULhLPLwKeotJrccOKh5TEJHpCp7LVQQsE=s300"></tb>
         <tb style="padding-left: 4px"><img src="https://lh6.googleusercontent.com/ve-am67ldXAYlPksOad1koLLglSjsN9pk-UJd_YrU40=s300"></tb>
         <tb style="padding-left: 4px"><img src="https://lh5.googleusercontent.com/THu336CJpvNuUlHIZm96-ec-UBwZYebHux2eaHDRxMQ=s300"></tb>
