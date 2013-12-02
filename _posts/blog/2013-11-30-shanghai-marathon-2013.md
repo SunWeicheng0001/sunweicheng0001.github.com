@@ -76,7 +76,7 @@ category: blog
   
 耶里夏丽的广告很给力啊，有木有，完全就是马拉松一道亮丽的风景线，话说还有一家有家川菜的棋子也不错，不过距离太远了，就没有拍下来。在路上总会碰到一些让人印象深刻的人，比如：
   
-<table grame=void>
+<table frame=void>
     <tr>
         <tb><img src="https://lh5.googleusercontent.com/TIlhPXVotmAkFZwohVnj-EunC2OAuvwC0mnyHN6Dz9Y=s300"></tb>
         <tb style="padding-left: 4px"><img  src="https://lh5.googleusercontent.com/3OIjZGKDxh8ZQ7pVHlk8hw8qLdbLEPqYLqrtI6u7yjA=s300"></tb>
